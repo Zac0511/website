@@ -2,7 +2,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // Page has finished loading. Now, do things.
   loadLayoutByPetraPixel();
 
-  // Add any custom JavaScript code here...
+  // Import the time widget loader (the local time thingy in the sidebar)
+  import("https://time.now/static/js/widget-loader.js")
 });
 
 function loadLayoutByPetraPixel() {
@@ -66,12 +67,13 @@ function headerHTML() {
         
         <div class="sidebar-section">
           <div class="sidebar-title">About me</div>
-          <p>I'm a silly 15 years old omnisexual femboy :3</p>
+          <p>I'm a french silly 15 years old omnisexual femboy :3</p>
           <p>I like computers, video games, gay stuff, and uh, other stuff but idk what else to write</p>
         </div>
 
         <div class="sidebar-section">
           <div class=sidebar-title">My local time</div>
+          <a href="https://time.now/" class="time-now-widget" data-widget-type="digital" data-timezone="Europe/Paris" data-style="minimalist" data-width="150" data-title="France (Central European Time)" data-bgColor="#ffffff" data-textColor="#000000" data-show-seconds="true" data-show-date="true" data-format-12-hour="false">France (Central European Time)</a>
         </div>
         
         <div class="sidebar-section">
@@ -109,7 +111,7 @@ function footerHTML() {
             <div>♡Copyheart 2026 by Zac0511. Feel free to copy and share :3<br>
             This website is open source : <a href="https://github.com/Zac0511/website">https://github.com/Zac0511/website</a></div>
             <hr />
-            <div>Last update: 01/11/2026</div>
+            <div>Last update: 01/11/2026 20:49 CET</div>
       </footer>`;
 }
 
