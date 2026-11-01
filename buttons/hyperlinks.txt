@@ -4,3 +4,4 @@ tested_on_firefox.gif : https://www.firefox.com/
 neocities.gif : https://neocities.org/
 minecraft.gif : https://www.minecraft.net
 grapheneOS.png : https://grapheneos.org/
+chaz.png : https://www.chaz.sk
