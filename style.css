@@ -228,12 +228,6 @@ footer a:focus {
   color: var(--link-color-hover);
 }
 
-#buttons {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 /* -------------------------------------------------------- */
 /* NAVIGATION */
 /* -------------------------------------------------------- */

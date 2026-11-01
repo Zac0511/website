@@ -127,9 +127,13 @@ function footerHTML() {
       <!-- =============================================== -->
 
       <footer>
-            <div id="buttons">
-              <img src="./buttons/pride.gif" alt="pride">
-            </div>
+            <center>
+              <!-- Templates so i don't have to rewrite each time : -->
+              <!-- Non-clickable : <img src="/buttons/" alt=""> -->
+              <!-- Clickable : <a href="" target="_blank"><img src="/buttons/" alt=""></a> -->
+              <!-- Actual buttons below : -->
+              <img src="/buttons/pride.gif" alt="pride"> <img src="/buttons/coded_by_a_human.png" alt="coded by a human!"> <a href="https://www.cloudflare.com/" target="_blank"><img src="/buttons/hosted_on_cloudflare.png" alt="hosted on Cloudflare"></a> <img src="/buttons/tested_on_firefox.gif" alt="tested on Firefox" href="https://www.firefox.com/"> <img src="/buttons/petrapixel.gif" alt="petrapixel" href="https://petrapixel.neocities.org/">
+            </center>
             <hr />
             <div>♡Copyheart 2026 by Zac0511. Feel free to copy and share :3<br>
             This website is open source : <a href="https://github.com/Zac0511/website">https://github.com/Zac0511/website</a></div>
