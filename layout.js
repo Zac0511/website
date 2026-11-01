@@ -65,49 +65,20 @@ function headerHTML() {
 	  
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-          <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p>
+          <div class="sidebar-title">About me</div>
+          <p>I'm a silly 15 years old omnisexual femboy :3</p>
+          <p>I like computers, video games, gay stuff, and uh, other stuff but idk what else to write</p>
+        </div>
+
+        <div class="sidebar-section">
+          <div class=sidebar-title">My local time</div>
         </div>
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <blockquote>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            <p>Necessit atibus perferendis inventore tempore vel optio similique blanditiis quasi quam?</p>
-          </blockquote>
-        </div>
-        
-        <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <ul>
-            <li>List</li>
-            <li>List</li>
-            <li><a href="/">List</a></li>
-            <li>List</li>
-          </ul>
-        </div>
-        
-        <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <marquee>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-          </marquee>
-        </div>
-        
-        <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
-          <img class="full-width-image" src="https://picsum.photos/id/13/1000/400">
-        </div>
-        
-        <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
+          <div class="sidebar-title">My button</div>
           <div class="site-button">
-          	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-        	<textarea><a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a></textarea>
+          	<a href="https://zac0511.com/" target="_blank"><img src="/button.png" alt="Zac0511"></a>
+        	<textarea readonly><a href="https://zac0511.com/" target="_blank"><img src="https://zac0511.com/button.png" alt="Zac0511"></a></textarea>
           </div>
         </div>
       </aside>
@@ -132,11 +103,13 @@ function footerHTML() {
               <!-- Non-clickable : <img src="/buttons/" alt=""> -->
               <!-- Clickable : <a href="" target="_blank"><img src="/buttons/" alt=""></a> -->
               <!-- Actual buttons below : -->
-              <img src="/buttons/pride.gif" alt="pride"> <img src="/buttons/coded_by_a_human.png" alt="coded by a human!"> <a href="https://www.cloudflare.com/" target="_blank"><img src="/buttons/hosted_on_cloudflare.png" alt="hosted on Cloudflare"></a> <img src="/buttons/tested_on_firefox.gif" alt="tested on Firefox" href="https://www.firefox.com/"> <img src="/buttons/petrapixel.gif" alt="petrapixel" href="https://petrapixel.neocities.org/">
+              <img src="/buttons/pride.gif" alt="pride"> <img src="/buttons/coded_by_a_human.png" alt="coded by a human!"> <a href="https://www.cloudflare.com/" target="_blank"><img src="/buttons/hosted_on_cloudflare.png" alt="hosted on Cloudflare"></a> <a href="https://www.firefox.com/" target="_blank"><img src="/buttons/tested_on_firefox.gif" alt="tested on Firefox"></a> <img src="/buttons/petrapixel.gif" alt="petrapixel" href="https://petrapixel.neocities.org/">
             </center>
             <hr />
             <div>♡Copyheart 2026 by Zac0511. Feel free to copy and share :3<br>
             This website is open source : <a href="https://github.com/Zac0511/website">https://github.com/Zac0511/website</a></div>
+            <hr />
+            <div>Last update: 01/11/2026</div>
       </footer>`;
 }
 
