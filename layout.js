@@ -72,8 +72,10 @@ function headerHTML() {
         </div>
 
         <div class="sidebar-section">
-          <div class=sidebar-title">My local time</div>
-          <a href="https://time.now/" class="time-now-widget" data-widget-type="digital" data-timezone="Europe/Paris" data-style="minimalist" data-width="150" data-title="France (Central European Time)" data-bgColor="#ffffff" data-textColor="#000000" data-show-seconds="true" data-show-date="true" data-format-12-hour="false">France (Central European Time)</a>
+          <center>
+            <div class=sidebar-title">My local time</div>
+            <a href="https://time.now/" class="time-now-widget" data-widget-type="digital" data-timezone="Europe/Paris" data-style="minimalist" data-width="150" data-title="France (Central European Time)" data-bgColor="#ffffff" data-textColor="#000000" data-show-seconds="true" data-show-date="true" data-format-12-hour="false">France (Central European Time)</a>
+            </center>
         </div>
         
         <div class="sidebar-section">
