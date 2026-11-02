@@ -115,6 +115,8 @@ function footerHTML() {
               <a href="https://petrapixel.neocities.org/" target="_blank"><img src="/buttons/petrapixel.gif" alt="petrapixel"></a>
               <img src="/buttons/anything_but_chrome.gif" alt="anything but chrome...">
               <a href="javascript:alert('were on the internet susie')"><img src="/buttons/kris_where_tf_are_we.png" alt="kris where tf are we"></a>
+              <img src="/buttons/internet_privacy_now.gif" alt="internet privacy, NOW!">
+              <img src="/buttons/yall-means-all.gif" alt="y'all means all">
             </center>
             <hr />
             <div>♡Copyheart 2026 by Zac0511. Feel free to copy and share :3<br>
