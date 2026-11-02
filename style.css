@@ -5,31 +5,6 @@
 /* -------------------------------------------------------- */
 
 /* Variables are used like this: var(--text-color) */
-:root {
-  /* Background Colors: */
-  background: #ffd333;
-  background: linear-gradient(90deg,rgba(255, 211, 51, 1) 0%, rgba(237, 83, 178, 1) 100%);
-  --content-background-color: #fdf0cb;
-  --sidebar-background-color: #ffffff;
-
-  /* Text Colors: */
-  --text-color: #885c1c;
-  --sidebar-text-color: #000000;
-  --link-color: #d961dc;
-  --link-color-hover: #d50bb1;
-
-  /* Text: */
-  --font: ComicNeue-Bold;
-  --heading-font: Verdana, sans-serif;
-  --font-size: 15px;
-
-  /* Other Settings: */
-  --margin: 12px;
-  --padding: 24px;
-  --border: 2px solid #c722c7;
-  --round-borders: 0px;
-  --sidebar-width: 200px;
-}
 
 @font-face {
     font-family: 'Comic Neue';
@@ -139,6 +114,32 @@
     font-display: swap;
 }
 
+:root {
+  /* Background Colors: */
+  background: #ffd333;
+  background: linear-gradient(90deg,rgba(255, 211, 51, 1) 0%, rgba(237, 83, 178, 1) 100%);
+  --content-background-color: #fdf0cb;
+  --sidebar-background-color: #ffffff;
+
+  /* Text Colors: */
+  --text-color: #885c1c;
+  --sidebar-text-color: #000000;
+  --link-color: #d961dc;
+  --link-color-hover: #d50bb1;
+
+  /* Text: */
+  --font: Comic Neue, sans-serif;
+  --heading-font: Verdana, sans-serif;
+  --font-size: 15px;
+
+  /* Other Settings: */
+  --margin: 12px;
+  --padding: 24px;
+  --border: 2px solid #c722c7;
+  --round-borders: 0px;
+  --sidebar-width: 200px;
+}
+
 
 
 /* -------------------------------------------------------- */
@@ -159,6 +160,8 @@ body {
   padding: var(--margin);
   color: var(--text-color);
   font-family: var(--font);
+  font-weight: 700;
+  font-style: bold;
   line-height: 1.2;
   background: var(--background-color);
   background-image: url("");
