@@ -117,12 +117,19 @@ function footerHTML() {
               <a href="javascript:alert('were on the internet susie')"><img src="/buttons/kris_where_tf_are_we.png" alt="kris where tf are we"></a>
               <img src="/buttons/internet_privacy_now.gif" alt="internet privacy, NOW!">
               <img src="/buttons/yall-means-all.gif" alt="y'all means all">
+              <img src="/buttons/stop_microslop.gif" alt="stop Microslop!">
+              <a href="https://neocities.org/" target="_blank"><img src="/buttons/neocities.gif" alt="NeoCities: the web is yours"></a>
+              <a href="https://www.chaz.sk" target="_blank"><img src="/buttons/chaz.png" alt="chaz"></a>
+              <img src="/buttons/queercoded.png" alt="you're telling me a queer coded this">
+              <a href="https://grapheneos.org/" target="_blank"><img src="/buttons/grapheneOS.png" alt="GrapheneOS"></a>
+              <a href="https://planetclue.com/" target="_blank"><img src="/buttons/planet-clue.gif" alt="planet clue"></a>
+              <a href="https://www.minecraft.net" target="_blank"><img src="/buttons/minecraft.gif" alt="Minecraft"></a>
             </center>
             <hr />
             <div>♡Copyheart 2026 by Zac0511. Feel free to copy and share :3<br>
             This website is open source : <a href="https://github.com/Zac0511/website">https://github.com/Zac0511/website</a></div>
             <hr />
-            <div>Last update: 02/11/2026 07:33 CET</div>
+            <div>Last update: 02/11/2026 18:57 CET</div>
       </footer>`;
 }
 

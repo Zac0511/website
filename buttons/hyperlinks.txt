@@ -5,3 +5,4 @@ neocities.gif : https://neocities.org/
 minecraft.gif : https://www.minecraft.net
 grapheneOS.png : https://grapheneos.org/
 chaz.png : https://www.chaz.sk
+petrapixel.gif : https://petrapixel.neocities.org/
