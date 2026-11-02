@@ -105,13 +105,22 @@ function footerHTML() {
               <!-- Non-clickable : <img src="/buttons/" alt=""> -->
               <!-- Clickable : <a href="" target="_blank"><img src="/buttons/" alt=""></a> -->
               <!-- Actual buttons below : -->
-              <img src="/buttons/pride.gif" alt="pride"> <img src="/buttons/coded_by_a_human.png" alt="coded by a human!"> <a href="https://www.cloudflare.com/" target="_blank"><img src="/buttons/hosted_on_cloudflare.png" alt="hosted on Cloudflare"></a> <a href="https://www.firefox.com/" target="_blank"><img src="/buttons/tested_on_firefox.gif" alt="tested on Firefox"></a> <img src="/buttons/petrapixel.gif" alt="petrapixel" href="https://petrapixel.neocities.org/">
+              <img src="/buttons/pride.gif" alt="pride">
+              <img src="/buttons/coded_by_a_human.png" alt="coded by a human!">
+              <a href="https://www.cloudflare.com/" target="_blank"><img src="/buttons/hosted_on_cloudflare.png" alt="hosted on Cloudflare"></a>
+              <a href="https://www.firefox.com/" target="_blank"><img src="/buttons/tested_on_firefox.gif" alt="tested on Firefox"></a>
+              <img src="/buttons/made_on_linux.gif" alt="made on Linux">
+              <img src="/buttons/boykisser.png" alt="boykisser">
+              <img src="/buttons/no-ai.gif" alt="no AI allowed on the website!!">
+              <a href="https://petrapixel.neocities.org/" target="_blank"><img src="/buttons/petrapixel.gif" alt="petrapixel"></a>
+              <img src="/buttons/anything_but_chrome.gif" alt="anything but chrome...">
+              <a href="javascript:alert('were on the internet susie')"><img src="/buttons/kris_where_tf_are_we.png" alt="kris where tf are we"></a>
             </center>
             <hr />
             <div>♡Copyheart 2026 by Zac0511. Feel free to copy and share :3<br>
             This website is open source : <a href="https://github.com/Zac0511/website">https://github.com/Zac0511/website</a></div>
             <hr />
-            <div>Last update: 01/11/2026 20:49 CET</div>
+            <div>Last update: 02/11/2026 07:33 CET</div>
       </footer>`;
 }
 
