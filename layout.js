@@ -64,7 +64,7 @@ function headerHTML() {
         <div class="sidebar-section">
           <div class="sidebar-title">About me</div>
           <p>I'm a french silly 15 years old omnisexual femboy :3</p>
-          <p>I like computers, video games, gay stuff, and uh, other stuff but idk what else to write</p>
+          <p>I like computers, video games, gay stuff, FOSS (Free and Open Source Software), and the ATmosphere :3</p>
         </div>
 
         <div class="sidebar-section">
@@ -127,7 +127,7 @@ function footerHTML() {
             <div>♡Copyheart 2026 by Zac0511. Feel free to copy and share :3<br>
             This website is open source : <a href="https://github.com/Zac0511/website">https://github.com/Zac0511/website</a></div>
             <hr />
-            <div>Last update: 02/11/2026 18:57 CET</div>
+            <div>Last update: 03/11/2026 07:25 CET</div>
       </footer>`;
 }
 
