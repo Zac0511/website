@@ -127,7 +127,7 @@ function footerHTML() {
             <div>♡Copyheart 2026 by Zac0511. Feel free to copy and share :3<br>
             This website is open source : <a href="https://github.com/Zac0511/website">https://github.com/Zac0511/website</a></div>
             <hr />
-            <div>Last update: 03/11/2026 07:25 CET</div>
+            <div>Last update: 03/11/2026 18:58 CET</div>
       </footer>`;
 }
 
