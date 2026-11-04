@@ -122,6 +122,7 @@ function footerHTML() {
               <a href="https://grapheneos.org/" target="_blank"><img src="/buttons/grapheneOS.png" alt="GrapheneOS"></a>
               <a href="https://planetclue.com/" target="_blank"><img src="/buttons/planet-clue.gif" alt="planet clue"></a>
               <a href="https://www.minecraft.net" target="_blank"><img src="/buttons/minecraft.gif" alt="Minecraft"></a>
+              <a href="https://petrapixel.neocities.org/indiewebdb/" target="_blank"><img src="/buttons/indiewebdb.png" alt="indie web database"></a>
             </center>
             <hr />
             <div>♡Copyheart 2026 by Zac0511. Feel free to copy and share :3<br>
