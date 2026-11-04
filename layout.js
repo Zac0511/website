@@ -59,17 +59,10 @@ function headerHTML() {
       <!-- =============================================== -->
 
       <aside class="right-sidebar">
-	  
-        
-        <div class="sidebar-section">
-          <div class="sidebar-title">About me</div>
-          <p>I'm a french silly 15 years old omnisexual femboy :3</p>
-          <p>I like computers, video games, gay stuff, FOSS (Free and Open Source Software), and the ATmosphere :3</p>
-        </div>
 
         <div class="sidebar-section">
+        <div class="sidebar-title">My local time</div>
           <center>
-            <div class=sidebar-title">My local time</div>
             <a href="https://time.now/" class="time-now-widget" data-widget-type="digital" data-timezone="Europe/Paris" data-style="minimalist" data-width="150" data-title="France (Central European Time)" data-bgColor="#ffffff" data-textColor="#000000" data-show-seconds="true" data-show-date="true" data-format-12-hour="false">France (Central European Time)</a>
           </center>
         </div>
